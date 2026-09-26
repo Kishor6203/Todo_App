@@ -55,17 +55,16 @@ A modern and responsive Todo Application built with HTML, Tailwind CSS, JavaScri
     │              🤖 AI Assistant               │
     └─────────────────────────────────────────────┘
 
-
 **🛠️ Technologies Used**
 Technology	Purpose
-HTML5	Application structure
+HTML5	     Application structure
 Tailwind CSS	Styling and responsive design
 JavaScript	Application logic
-React.js	UI and state management
-AI API	Chatbot and AI task assistance
+React.js	     UI and state management
+AI API	     Chatbot and AI task assistance
 LocalStorage	Local task persistence
 
-⚙️ Installation
+**⚙️ Installation**
 1. Clone the repository
 git clone https://github.com/kishor6203/todo-ai-app.git
 
@@ -130,7 +129,7 @@ The application is designed to work across:
 
 📟 Tablet
 
-⭐ Support
+**⭐ Support**
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
