@@ -64,14 +64,6 @@ A modern and responsive Todo Application built with HTML, Tailwind CSS, JavaScri
     AI API	      Chatbot and AI task assistance
     LocalStorage	 Local task persistence
 
-**🛠️ Technologies Used**
-Technology	Purpose
-HTML5	     Application structure
-Tailwind CSS	Styling and responsive design
-JavaScript	Application logic
-React.js	     UI and state management
-AI API	     Chatbot and AI task assistance
-LocalStorage	Local task persistence
 
 **⚙️ Installation**
 1. Clone the repository
