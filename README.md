@@ -34,6 +34,28 @@ A modern and responsive Todo Application built with HTML, Tailwind CSS, JavaScri
 
     ⚡ Fast and interactive React UI
 
+    **Example layout:**
+
+    ┌─────────────────────────────────────────────┐
+    │                  AI TODO                    │
+    ├──────────────┬──────────────────────────────┤
+    │              │                              │
+    │  Dashboard   │       Todo Dashboard         │
+    │              │                              │
+    │  All Tasks   │  ┌────────────────────────┐  │
+    │  Pending     │  │ Finish React Project   │  │
+    │  Completed   │  │ Priority: High         │  │
+    │              │  └────────────────────────┘  │
+    │              │                              │
+    │              │  ┌────────────────────────┐  │
+    │              │  │ Read documentation     │  │
+    │              │  └────────────────────────┘  │
+    │              │                              │
+    ├──────────────┴──────────────────────────────┤
+    │              🤖 AI Assistant               │
+    └─────────────────────────────────────────────┘
+
+
 **🛠️ Technologies Used**
 Technology	Purpose
 HTML5	Application structure
@@ -95,27 +117,6 @@ AI chatbot panel
 Dark/light mode
 
 Task priority indicators
-
-Example layout:
-
-┌─────────────────────────────────────────────┐
-│                  AI TODO                    │
-├──────────────┬──────────────────────────────┤
-│              │                              │
-│  Dashboard   │       Todo Dashboard         │
-│              │                              │
-│  All Tasks   │  ┌────────────────────────┐  │
-│  Pending     │  │ Finish React Project   │  │
-│  Completed   │  │ Priority: High         │  │
-│              │  └────────────────────────┘  │
-│              │                              │
-│              │  ┌────────────────────────┐  │
-│              │  │ Read documentation     │  │
-│              │  └────────────────────────┘  │
-│              │                              │
-├──────────────┴──────────────────────────────┤
-│              🤖 AI Assistant                 │
-└─────────────────────────────────────────────┘
 
 **📱 Responsive Design**
 
